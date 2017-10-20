@@ -13,12 +13,16 @@ p{
 	display: inline-block;
 	padding: 5px;
 }
-
 .menubut{
+	font-size: 20px;
+	font-family: 'Lobster';
+	margin: 10px;
+	color: black;
 	padding: 10px;
 }
 
 .menubut:hover{
+	text-decoration: none;
 	color: white;
 	cursor: hand;
 }
@@ -80,18 +84,6 @@ p{
 #menu{
 	font-size: 40px;
 	margin: 10px;
-}
-
-
-.menubut{
-	font-size: 20px;
-	font-family: 'Lobster';
-	margin: 10px;
-	color: black;
-}
-
-.menubut:hover{
-	text-decoration: none;
 }
 
 #menudiv{
