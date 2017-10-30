@@ -13,6 +13,7 @@ p{
 	display: inline-block;
 	padding: 5px;
 }
+
 .menubut{
 	font-size: 20px;
 	font-family: 'Lobster';
@@ -39,27 +40,27 @@ p{
   	background-image: linear-gradient(to right, rgba(255, 255, 255, 0) 50%, red 50%);
 }
 
-#projects{
+#aboutme{
 	background-position: 0 0;
   	background-image: linear-gradient(to right, rgba(255, 255, 255, 0) 50%, yellow 50%);
   	transition: background-position 0.5s ease-out 0s;
   	background-size: 204% auto;
 }
 
-#projects:hover{
-	background-position: -99.99% 0;
+#aboutme:hover{
+	background-position: -98% 0;
   	background-image: linear-gradient(to right, rgba(255, 255, 255, 0) 50%, yellow 50%);
 }
 
-#misc{
+#other{
 	background-position: 0 0;
   	background-image: linear-gradient(to right, rgba(255, 255, 255, 0) 50%, purple 50%);
   	transition: background-position 0.5s ease-out 0s;
   	background-size: 204% auto;
 }
 
-#misc:hover{
-	background-position: -99.99% 0;
+#other:hover{
+	background-position: -98% 0;
   	background-image: linear-gradient(to right, rgba(255, 255, 255, 0) 50%, purple 50%);
 }
 
