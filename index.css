@@ -92,44 +92,45 @@ p{
 	text-align: right;
 }
 
+
+/* Bottom */
 #bottom{
 	width: 80vw;
 	margin: 0 auto;
 }
 
-#insta{
-	font-size: 40px;
-	color: black;
+#iconmenu{
+	width: 30vw;
+	margin: 0 auto;
 	text-align: center;
 }
 
-#insta:hover{
-	color: red;
-
+#email{
+	font-size: 30px;
+	color: black;
+	text-align: center;
 }
 
 #git{
-	font-size: 40px;
+	font-size: 30px;
 	color: black;
 	text-align: center;
+}
+
+#linkedin{
+	font-size: 30px;
+	color: black;
+	text-align: center;
+}
+
+#email:hover{
+	color: red;
 }
 
 #git:hover{
 	color: green;
 }
 
-#email{
-	font-size: 40px;
-	color: black;
-	text-align: center;
-}
-
-#email:hover{
+#linkedin:hover{
 	color: blue;
-}
-
-#icons{
-	width: 30vw;
-	margin: 0 auto;
-	text-align: center;
 }
